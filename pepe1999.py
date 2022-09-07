@@ -1,2 +1,2 @@
 print("hola estoy en 1999")
-print("sot jara")
+print("soy jara")
